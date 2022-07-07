@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+# Modular Executor Method
+
+### Contributors 
+
+= {
+
+}
+
+
+Some of the contents here may have become impractical due to it being outdated. Take note of the last time this documentation has been checked and updated. (Latest update: 045/07/2022)
+
+## Table of contents
 
 You can use the [editor on GitHub](https://github.com/davidwantstousegithub/MEM/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
